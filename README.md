@@ -11,14 +11,13 @@
 </p>
 
 <p align="center">
-  A passionate Developer interested in Web Development and AI. I believe in the power of AI that can change world and solve real-world problems.
+  A passionate Developer interested in Web Development and AI. I believe in the power of AI that can change the world and solve real-world problems.
 </p>
 <hr>
 
 ## 📚 Education
 
 * **B.tech** - PVPIT college, 4th year, *[Computer Science and Engineering]*
-* **MHT-CET** - 89.88% *[Exam]*
 * **HSC** - PNVK,kavalapur, 2022, 71.66% *[PCM]*
 * **SSC** - PNVK,kavalpur, 2020, 83.67%
 <hr>
@@ -33,7 +32,7 @@
   * **Leadership Skill:** Led a team of 2 developers on the final year project.
   * **Communication Skill:** Excellent written and verbal communication, effective collaboration with non-technical stakeholders.
   * **Reading/Learning Skill:** Dedicated self-learner, quickly adapting to new frameworks and technologies.
-  * **Problem-Solving Skill:** Analytical approach to debugging and solving puzzales and also mathmetical problems.
+  * **Problem-Solving Skill:** Analytical approach to debugging and solving puzzles, and also mathematical problems.
 </details>
 
 <hr>
@@ -52,7 +51,7 @@
 ## 🚀 My Latest & Greatest Projects
 
 * ### Aptitude Test Website
-    * **Description:** A website that contain different aptitude topic questions and help prepare for aptitude tests .
+    * **Description:** A website that contains different aptitude topic questions and helps prepare for aptitude tests.
     * **Repo Link:** https://github.com/Yash22TY/Aptitude_Test
   <hr>
 
