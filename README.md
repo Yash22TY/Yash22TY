@@ -18,14 +18,14 @@
 ## 📚 Education
 
 * **B.tech** - PVPIT college, 4th year, *[Computer Science and Engineering]*
-* **HSC** - PNVK,kavalapur, 2022, 71.66% *[PCM]*
+* **HSC** - PNVK,kavalapur, 2022, 71.66% 
 * **SSC** - PNVK,kavalpur, 2020, 83.67%
 <hr>
 
 ## 🛠️ Skills & Expertise
 
 <details>
-  <summary>Click to view my **Passive Skills**</summary>
+  <summary>Click to view my <b>Passive Skills</b></summary>
   
   ### ⭐ Passive Skills
   
