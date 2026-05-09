@@ -100,7 +100,6 @@ A passionate and dedicated **Full-Stack Developer** with a keen interest in **We
 </a>
 </p>
 
-<a href="https://www.github.com/Yash22TY" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Yash22TY?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" /></a>
 
 ---
 
